@@ -1,4 +1,4 @@
-## 🧮 MatrixCPP
+## 🧮 Matrix Library
 
 ### Implementation of library for work with matrix
 🚀 Developed in a OOP programming style in C++ language.
